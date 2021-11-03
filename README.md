@@ -8,3 +8,4 @@
  - Show different representations of numerical bases (CAP02EX09CPP)
  - Show the diferences about increment and decrement (CAP02EX12-13CPP)
  - Calculate the summation and average between two numbers (CAP05EX1P)
+ - Calculate summation and average til you stop it using loop do-while (CAP05EX3N)
