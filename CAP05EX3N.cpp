@@ -35,4 +35,6 @@ int main(void)
     cout << "Valor da soma: " << S << endl;
     cout << "Valor da media: " << M << endl;
     cout << "Quantidade de entradas: " << I;
+
+    return 0;
 }
