@@ -10,3 +10,4 @@
  - Calculate the summation and average between two numbers (CAP05EX1P)
  - Calculate summation and average til you stop it using loop do-while (CAP05EX3N)
  - Calculate the fatorial of any number using loop "for" (CAP05EX6O)
+ - Calculator software programmed using defined prototypes subroutines (SubrotinasEX1)
