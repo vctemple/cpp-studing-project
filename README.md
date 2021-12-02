@@ -13,3 +13,4 @@
  - Calculator software programmed using defined prototypes subroutines (SubrotinasEX1)
  - Show on screen different text colour types (EXCORES)
  - A normal calculator but with a lot of colours (COLOURCALC)
+ - Different ways of build subroutines (PDP_VeR-PeF)
