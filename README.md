@@ -11,3 +11,5 @@
  - Calculate summation and average til you stop it using loop do-while (CAP05EX3N)
  - Calculate the fatorial of any number using loop "for" (CAP05EX6O)
  - Calculator software programmed using defined prototypes subroutines (SubrotinasEX1)
+ - Show on screen different text colour types (EXCORES)
+ - A normal calculator but with a lot of colours (COLOURCALC)

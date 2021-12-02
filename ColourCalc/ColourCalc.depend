@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1638417964 source:c:\users\samsung\programas\workspace\colourcalc\color.cpp
+	<iostream>
+	<windows.h>
+	<string>
+
+1638415582 source:c:\users\samsung\programas\workspace\colourcalc\main.cpp
+	<iostream>
+	<iomanip>
+	"colour.h"
+
+1638414001 c:\users\samsung\programas\workspace\colourcalc\colour.h
+
