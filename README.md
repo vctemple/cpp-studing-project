@@ -14,3 +14,5 @@
  - Show on screen different text colour types (EXCORES)
  - A normal calculator but with a lot of colours (COLOURCALC)
  - Different ways of build subroutines (PDP_VeR-PeF)
+ - Grade spreadsheet using STRUCTs with cardinal array (STRUCT1)
+ - Grade spreadsheet using SRUCTs with orninal array (STRUCT2)
